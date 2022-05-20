@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form should show Form 1`] = `
+<div
+  className="sc-bczRLJ cKPmbC"
+  value={111}
+>
+  <div
+    className="sc-gsnTZi irJlqJ"
+  >
+     Value : 
+    111
+  </div>
+  <div
+    className="sc-gsnTZi irJlqJ"
+  >
+     Date : 
+    01.01.2022
+  </div>
+  <div
+    className="sc-gsnTZi irJlqJ"
+  >
+     Comment : 
+    test
+  </div>
+</div>
+`;

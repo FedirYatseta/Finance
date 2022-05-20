@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should show Home 1`] = `
+Array [
+  <div>
+    <div
+      className="sc-bczRLJ cKPmbC"
+      value={0}
+    >
+      Balance: 
+      0
+    </div>
+  </div>,
+  <form
+    className="sc-dkzDqf esGgqa"
+    onSubmit={[Function]}
+  >
+    <input
+      className="sc-hKMtZM chszIM"
+      name="date"
+      onChange={[Function]}
+      type="date"
+      value="2022-04-13"
+    />
+    <textarea
+      className="sc-eCYdqJ gqnvUR"
+      name="comment"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <input
+      className="sc-hKMtZM chszIM"
+      name="value"
+      onChange={[Function]}
+      placeholder="Sum"
+      type="number"
+      value=""
+    />
+    <button
+      className="sc-jSMfEi btHlbY"
+    >
+      Save
+    </button>
+  </form>,
+  <hr />,
+  <div>
+    <hr />
+  </div>,
+]
+`;

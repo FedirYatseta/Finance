@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About should show About 1`] = `
+<h1>
+  About
+</h1>
+`;
+
+exports[`App should show App 1`] = `
+<h1>
+  About
+</h1>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transaction should show Transaction 1`] = `
+<div
+  className="sc-bczRLJ cKPmbC"
+>
+  <div
+    className="sc-gsnTZi irJlqJ"
+  >
+     Value : 
+  </div>
+  <div
+    className="sc-gsnTZi irJlqJ"
+  >
+     Date : 
+  </div>
+  <div
+    className="sc-gsnTZi irJlqJ"
+  >
+     Comment : 
+  </div>
+</div>
+`;

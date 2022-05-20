@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Balance should show Balance 1`] = `
+<div>
+  <div
+    className="sc-bczRLJ cKPmbC"
+  >
+    Balance: 
+  </div>
+</div>
+`;
